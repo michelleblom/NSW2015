@@ -13,7 +13,7 @@ You can see the list of party affiliations in Parties.txt.
 
 The third line is a separator (-+-+-+-+-+).
 
-From the fourth line onward, each line definds a ballot ranking (for example, (3,2,0)) and the number of ballots cast with that ranking. 
+From the fourth line onward, each line definds a ballot ranking (for example, (3,2,0)) and the number of ballots cast with that ranking (for example, 15). 
 
 (3,2,0) : 15
 
