@@ -1,0 +1,12 @@
+LIB: Liberals
+LAB: Labor
+NP: Nationals
+GRN: Greens
+NLT: No Land Tax
+ORP: Outdoor Recreation Party
+IND: Independent
+CDP: Christian Democratic Party
+AJP: Animal Justice Party
+CLP: Country Labor Party
+ACP: Australian Cyclists Party
+SA: Socialist Alliance
